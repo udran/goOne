@@ -1,3 +1,3 @@
 package vars
 
-var a = 5
+var a int = 5
